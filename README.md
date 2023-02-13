@@ -28,4 +28,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 R, SAS, SQL, Python, R Shiny, C++ and Java
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg", width = "30px"><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg", width = "30px"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg", width = "30px"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg", width = "30px">
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg", width = "30px"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg", width = "30px"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg", width = "30px"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg", width = "30px">
