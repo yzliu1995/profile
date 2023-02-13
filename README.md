@@ -1,8 +1,9 @@
 <h1><marquee behavior="scroll" direction="right">Hey there, I'm Joe Liu</marquee>👋</h1><img align="right" width="200" height="133" src="https://biostat.wiscweb.wisc.edu/wp-content/uploads/sites/1008/2020/10/Joe-Liu-600x400.png">
 
+[![Github Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg)](https://github.com/yzliu1995)
 [![linkedin badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/yingzhouliu)
 [![Gmail Badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg)](mailto:yingzhou6666@gmail.com)
-[![Github Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg)](https://github.com/yzliu1995)
+
 
 - A determined and creative <a  href="https://biostat.wiscweb.wisc.edu">Ph.D. Candidate in biostatistics, or biomedical data science</a> with experience in constrained tree-like methods and their applications in observational studies
 
