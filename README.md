@@ -1,4 +1,4 @@
-<h1>Hey there, I'm <a hef="https://github.com/yzliu1995">Joe Liu</a>👋</h1>
+<h1>Hey there, I'm <a href="https://github.com/yzliu1995">Joe Liu</a>👋</h1>
 <img align="right" width="200" height="133" src="https://biostat.wiscweb.wisc.edu/wp-content/uploads/sites/1008/2020/10/Joe-Liu-600x400.png">
 
 [![linkedin badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/yingzhouliu)
@@ -28,4 +28,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg", width = "30px"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg", width = "30px"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg", width = "30px"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg", width = "30px"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg", width = "30px">
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg", width = "30px">
