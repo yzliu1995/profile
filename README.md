@@ -1,7 +1,7 @@
 <h1>Hey there, I'm <a  href="https://github.com/yzliu1995">Joe Liu </a> <img  src="https://biostat.wiscweb.wisc.edu/wp-content/uploads/sites/1008/2020/10/Joe-Liu-600x400.png" width="30px"></h1>
 
-[![linkedin badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](www.linkedin.com/in/yingzhouliu)
-[![Gmail Badge](https://img.shields.io/badge/tanyagupta.pg@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:yingzhou6666@gmail.com)
+[![linkedin badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/yingzhouliu)
+[![Gmail Badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg)](mailto:yingzhou6666@gmail.com)
 
 - A determined and creative Ph.D. Candidate in biostatistics/biomedical data science with experience in constrained tree-like methods and their applications in observational studies <br>
 - A published author with a master’s in biostatistics and a master’s in computer science with 5 years of experience in statistical inference and analysis, clinical trials, deep learning, and medical image analysis
@@ -16,9 +16,3 @@
 
 <br>
 <br>
-
----
-
-Credit: [tanyagupta0201](https://github.com/tanyagupta0201)
-
-Last Edited on: 02/13/2023
