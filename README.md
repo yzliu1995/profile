@@ -1,4 +1,4 @@
-<h1>Hey there, I'm <a  href="https://github.com/yzliu1995">Joe Liu </a>👋<img align="right" width="200" height="133" src="https://biostat.wiscweb.wisc.edu/wp-content/uploads/sites/1008/2020/10/Joe-Liu-600x400.png">
+<h1>Hey there, I'm <a  href="https://github.com/yzliu1995">Joe Liu </a>👋<img align="right" width="200" height="133" src="https://biostat.wiscweb.wisc.edu/wp-content/uploads/sites/1008/2020/10/Joe-Liu-600x400.png"></h1>
 
 [![linkedin badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/yingzhouliu)
 [![Gmail Badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg)](mailto:yingzhou6666@gmail.com)
@@ -27,4 +27,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 R, SAS, SQL, Python, R Shiny, C++ and Java
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg", width = "30px"><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
