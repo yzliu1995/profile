@@ -1,6 +1,6 @@
 <h1><marquee behavior="scroll" direction="right">Hey there, I'm Joe Liu</marquee>👋</h1><img align="right" width="200" height="133" src="https://biostat.wiscweb.wisc.edu/wp-content/uploads/sites/1008/2020/10/Joe-Liu-600x400.png">
 
-[![linkedin Badge](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg)](https://github.com/yzliu1995)
+[![Github Badge](https://github.com/HaeckDesign/Get-Social-Social-Media-Font/blob/master/images/SVG/github.svg)](https://github.com/yzliu1995)
 [![linkedin badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/yingzhouliu)
 [![Gmail Badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg)](mailto:yingzhou6666@gmail.com)
 
