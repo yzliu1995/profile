@@ -4,6 +4,8 @@
 [![linkedin badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/yingzhouliu)
 [![Gmail Badge](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg)](mailto:yingzhou6666@gmail.com)
 
+<h2>About me</h2>
+
 - A determined and creative <a  href="https://biostat.wiscweb.wisc.edu">Ph.D. Candidate in biostatistics, or biomedical data science</a> with experience in *constrained tree-like methods* and their applications in *observational studies*
 
 - A self-driven individual with experience in academia and biopharmaceuticals developing innovative methods for subgroup identification and providing quantitative input to *early phase clinical trials*, *biomarker analyses* and *drug development*
