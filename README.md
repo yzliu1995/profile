@@ -28,5 +28,5 @@
 
 <h2 align="left">Languages and Tools</h2>
 
-<img align="left" width="20" height="13" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg">
-<img align="left" width="20" height="13"  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img align="left" width="20" height="13"  src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg"><img align="left" width="20" height="13"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"><img align="left" width="20" height="13"  src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+<img align="left" width="40" height="26" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg">
+<img align="left" width="40" height="26" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img align="left" width="40" height="26" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg"><img align="left" width="40" height="26" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"><img align="left" width="40" height="26" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
