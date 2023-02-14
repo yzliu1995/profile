@@ -28,6 +28,16 @@
   - diabetes
   - palliative care
 
+<h2>Projects</h2>
+
+- <a  href="https://github.com/yzliu1995/Constrained_Tree_Methods">Constrained Tree-like Methods</a>
+- <a  href="https://github.com/yzliu1995/Subspace_Clustering_Drug_discovery">Prediction of Drug-Target Interactions through Unions of Subspaces (UoS)</a>
+- <a  href="https://github.com/yzliu1995/Face_in_the_Wild_RetinaFace_HR_Net">RetinaFace for Face Detection and High-Resolution Networks (HRNets) for Sparse Landmarks Detection</a>
+- <a  href="https://github.com/yzliu1995/Fully-Convolutional-DenseNet-with-Max-Unpooling">COVID-19 Chest CT Image Segmentation of Anomalies Using Fully Convolutional DenseNet with Max Unpooling</a>
+- <a  href="https://github.com/yzliu1995/The_Efficacy_of_A_New_Drug">Categorical Data Analysis</a>
+- <a  href="https://github.com/yzliu1995/BMI_WL">Associations between Body Mass Index, Weight Loss, and Overall Survival in Patients with Advanced Lung Cancer</a>
+- <a  href="https://github.com/yzliu1995/Diabetic_Foot_Ulcers">Associations between Specialty Care, Limb Salvage, and Survival among Patients with Diabetic Foot Ulcers</a>
+
 <h2 align="left">Languages and Tools</h2>
 
 <img align="left" width="40" height="26" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg">
