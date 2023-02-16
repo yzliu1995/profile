@@ -37,6 +37,7 @@
 - <a  href="https://github.com/yzliu1995/The_Efficacy_of_A_New_Drug">Categorical Data Analysis</a>
 - <a  href="https://github.com/yzliu1995/BMI_WL">Associations between Body Mass Index, Weight Loss, and Overall Survival in Patients with Advanced Lung Cancer</a>
 - <a  href="https://github.com/yzliu1995/Diabetic_Foot_Ulcers">Associations between Specialty Care, Limb Salvage, and Survival among Patients with Diabetic Foot Ulcers</a>
+- <a  href="https://github.com/yzliu1995/R_Shiny_App">Product Review Exploration using R Shiny App</a>
 
 <h2 align="left">Languages and Tools</h2>
 
